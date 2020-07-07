@@ -4,8 +4,7 @@ Dame Elizabeth Jane Campion DNZM (born 30 April 1954) is a New Zealand screenwri
 
 ## Career (1982-2000)
 
-![Jane Campion]
-(https://octodex.github.com/images/yaktocat.png)
+![Jane Campion] (https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/35547/square_thumb%402x.png "photo")
 
 Her first short film, Peel (1982), won the Short Film Palme d'Or 
         at the 1986 Cannes Film Festival, and other awards followed for 
@@ -35,8 +34,7 @@ Campion's work since that time has tended to polarize opinion.
 
  ## Career (2000-2015)
 
-![Jane Campion]
-(https://images.app.goo.gl/xpajrtyVG4YzEtnc6)
+![Jane Campion] (https://images.app.goo.gl/xpajrtyVG4YzEtnc6 "photo2")
 
 Campion was an executive producer for the 2006 documentary Abduction: 
         The Megumi Yokota Story and was creator, writer and director of the serial
