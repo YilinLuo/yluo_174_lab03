@@ -34,7 +34,7 @@ Campion's work since that time has tended to polarize opinion.
 
  ## Career (2000-2015)
 
-![Jane Campion] (https://images.app.goo.gl/xpajrtyVG4YzEtnc6 "photo2")
+![Jane Campion] (https://ih1.redbubble.net/image.624790720.5219/flat,128x,075,f-pad,128x128,f8f8f8.u2.jpg "photo2")
 
 Campion was an executive producer for the 2006 documentary Abduction: 
         The Megumi Yokota Story and was creator, writer and director of the serial
