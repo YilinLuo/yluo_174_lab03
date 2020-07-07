@@ -1,10 +1,11 @@
-#Jane Campion: Director
+# Jane Campion: Director
 
 Dame Elizabeth Jane Campion DNZM (born 30 April 1954) is a New Zealand screenwriter, producer, and director.
 
-##Career (1982-2000)
+## Career (1982-2000)
 
-![Jane Campion](https://images.app.goo.gl/GUVF8qSZZ1JQysnR6)
+![Jane Campion]
+(https://octodex.github.com/images/yaktocat.png)
 
 Her first short film, Peel (1982), won the Short Film Palme d'Or 
         at the 1986 Cannes Film Festival, and other awards followed for 
@@ -32,9 +33,10 @@ Campion's work since that time has tended to polarize opinion.
         biographical drama about poet John Keats (played by Ben Whishaw) and his 
         lover Fanny Brawne (Abbie Cornish), was shown at the Cannes Film Festival.
 
- ##Career (2000-2015)
+ ## Career (2000-2015)
 
-![Jane Campion](https://images.app.goo.gl/xpajrtyVG4YzEtnc6)
+![Jane Campion]
+(https://images.app.goo.gl/xpajrtyVG4YzEtnc6)
 
 Campion was an executive producer for the 2006 documentary Abduction: 
         The Megumi Yokota Story and was creator, writer and director of the serial
@@ -61,7 +63,7 @@ In 2015 Campion confirmed that she would be co-directing and co-writing a second
             season of Top of the Lake with the action moved to Sydney and Harbour City, 
             Hong Kong with Elisabeth Moss reprising her role as Robin Griffin.
 
-##Personal Life
+## Personal Life
 
 In 1992, she married Colin David Englert, an Australian who worked as a second 
         unit director on The Piano. Their first child, a son named Jasper, was born in 
@@ -69,7 +71,7 @@ In 1992, she married Colin David Englert, an Australian who worked as a second
          was born in 1994; she is an actress. The couple divorced in 2001.
 
 
- ###Works(1982-1990)
+### Works(1982-1990)
 
 1. Peel (1982)
 2. Passionless Moments (1983)
@@ -80,7 +82,7 @@ In 1992, she married Colin David Englert, an Australian who worked as a second
 7. An Angel at My Table (1990)
 
 
-###Works(1990-now)
+### Works(1990-now)
 
 1. Holy Smoke! (1999)
 2. In the Cut (2003)
@@ -89,7 +91,7 @@ In 1992, she married Colin David Englert, an Australian who worked as a second
 5. The Flamethrowers
 6. Top of the Lake
                           
-##References
+## References
 - Fox, Alistair (2011). Jane Campion: Authorship and Personal Cinema. Indiana University Press. p. 32. Retrieved 30 December 2015.
 - "'Piano's' Jane Campion Is First Female Director to Win; 'Concubine's' Chen Kaige Has First Chinese-Film Victory: 'Piano', 'Concubine', Share the Palme D'Or", Los Angeles Times, 25 May 1993; retrieved 6 May 2012.
 - Fox. Jane Campion profile. p. 25.
